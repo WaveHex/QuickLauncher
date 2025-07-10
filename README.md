@@ -1,18 +1,12 @@
 # 🚀 QuickLauncher
 
-<p align="center">
-  <a href="https://github.com/WaveHex/QuickLauncher/releases/latest">
-    <img src="https://img.shields.io/github/downloads/WaveHex/QuickLauncher/total?label=downloads&logo=github" alt="downloads" />
-  </a>
-  <a href="https://github.com/WaveHex/QuickLauncher/stargazers">
-    <img src="https://img.shields.io/github/stars/WaveHex/QuickLauncher?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/WaveHex/QuickLauncher/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/WaveHex/QuickLauncher?color=blue" alt="license" />
-  </a>
-  <img src="https://img.shields.io/badge/platform-windows-blue?logo=windows" alt="platform" />
-  <img src="https://img.shields.io/badge/built%20with-React%20%7C%20Vite%20%7C%20Tauri-2ea44f?logo=react" alt="tech stack" />
-</p>
+[![WaveHex - QuickLauncher](https://img.shields.io/static/v1?label=WaveHex&message=QuickLauncher&color=blue&logo=github)](https://github.com/WaveHex/QuickLauncher "Go to GitHub repo")
+[![stars - QuickLauncher](https://img.shields.io/github/stars/WaveHex/QuickLauncher?style=social)](https://github.com/WaveHex/QuickLauncher)
+[![forks - QuickLauncher](https://img.shields.io/github/forks/WaveHex/QuickLauncher?style=social)](https://github.com/WaveHex/QuickLauncher)
+[![GitHub tag](https://img.shields.io/github/tag/WaveHex/QuickLauncher?include_prereleases=&sort=semver&color=blue)](https://github.com/WaveHex/QuickLauncher/releases/)
+[![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue)](#license)
+<img src="https://img.shields.io/badge/platform-windows-blue?logo=windows" alt="platform" />
+<img src="https://img.shields.io/badge/built%20with-React%20%7C%20Vite%20%7C%20Tauri-2ea44f?logo=react" alt="tech stack" />
 
 ![QuickLauncher Logo](dist/assets/icon-W-e9zJma.ico)
 
@@ -80,7 +74,7 @@ npm run build
 
 ## 📄 Лицензия
 
-Иконка и приложение — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Released under [CC BY-SA 4.0](/LICENSE) by [@WaveHex](https://github.com/WaveHex).
 
 ---
 
@@ -90,5 +84,6 @@ npm run build
 - [Создать pull request](https://github.com/yourusername/quicklauncher/pulls)
 
 ---
+
 
 **QuickLauncher** — твой быстрый старт каждый день!
