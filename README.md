@@ -52,13 +52,14 @@
 npm install
 
 # Запустить dev-режим (основное приложение)
-npm run dev
+npm run tauri dev
 
 # Запустить лендинг (открой http://localhost:5173/landing.html)
 npm run dev
 
 # Production-сборка (app + landing)
 npm run build
+npm run tauri build
 ```
 
 ---
