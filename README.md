@@ -1,17 +1,17 @@
 # 🚀 QuickLauncher
 
 <p align="center">
-  <a href="https://github.com/WaveHex/quicklauncher/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/yourusername/quicklauncher/ci.yml?branch=main&label=build&logo=github" alt="build status" />
+  <a href="https://github.com/WaveHex/QuickLauncher/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/WaveHex/QuickLauncher/ci.yml?branch=main&label=build&logo=github" alt="build status" />
   </a>
-  <a href="https://github.com/WaveHex/quicklauncher/releases/latest">
-    <img src="https://img.shields.io/github/downloads/yourusername/quicklauncher/total?label=downloads&logo=github" alt="downloads" />
+  <a href="https://github.com/WaveHex/QuickLauncher/releases/latest">
+    <img src="https://img.shields.io/github/downloads/WaveHex/QuickLauncher/total?label=downloads&logo=github" alt="downloads" />
   </a>
-  <a href="https://github.com/WaveHex/quicklauncher/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/quicklauncher?style=social" alt="GitHub stars" />
+  <a href="https://github.com/WaveHex/QuickLauncher/stargazers">
+    <img src="https://img.shields.io/github/stars/WaveHex/QuickLauncher?style=social" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/WaveHex/quicklauncher/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/quicklauncher?color=blue" alt="license" />
+  <a href="https://github.com/WaveHex/QuickLauncher/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/WaveHex/QuickLauncher?color=blue" alt="license" />
   </a>
   <img src="https://img.shields.io/badge/platform-windows-blue?logo=windows" alt="platform" />
   <img src="https://img.shields.io/badge/built%20with-React%20%7C%20Vite%20%7C%20Tauri-2ea44f?logo=react" alt="tech stack" />
