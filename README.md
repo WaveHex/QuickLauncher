@@ -1,9 +1,6 @@
 # 🚀 QuickLauncher
 
 <p align="center">
-  <a href="https://github.com/WaveHex/QuickLauncher/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/WaveHex/QuickLauncher/ci.yml?branch=main&label=build&logo=github" alt="build status" />
-  </a>
   <a href="https://github.com/WaveHex/QuickLauncher/releases/latest">
     <img src="https://img.shields.io/github/downloads/WaveHex/QuickLauncher/total?label=downloads&logo=github" alt="downloads" />
   </a>
